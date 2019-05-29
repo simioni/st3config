@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Jade",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Nodejs",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pug",
+		"React ES6 Snippets",
+		"Sass",
+		"ScopeHunter",
+		"StandardSnippets",
+		"SublimeLinter",
+		"Text Pastry"
+	]
+}

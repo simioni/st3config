@@ -1,0 +1,95 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": " asd asd asd asd asd asddksjdn akjsnd ajsndkj nkjasnd ",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": " asd asd asd asd asd asddksjdn akjsnd ajsndkj nkjasnd "
+			},
+			"key": "2335233c15d3df03d52b2dea4567929a",
+			"label": " asd asd asd asd asd asddksjdn akjsnd ajsndkj nkjasnd "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0005 0015 0100 0150 0200 A100 A170 C100 C170 D100 D101 D105 D200 D201 D205"
+				},
+				"command": "text_pastry_step",
+				"text": "0005 0015 0100 0150 0200 A100 A170 C100 C170 D100 D101 D105 D200 D201 D205"
+			},
+			"key": "212894e024055558c1b30ff5d929292a",
+			"label": "0005 0015 0100 0150 0200 A100 A170 C100 C170 D100 D101 D105 D200 D201 D205"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "a0005 0015 0100 0150 0200 A100 A170 C100 C170 D100 D101 D105 D200 D201 D205",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "a0005 0015 0100 0150 0200 A100 A170 C100 C170 D100 D101 D105 D200 D201 D205"
+			},
+			"key": "2c923905b0863880f045b594b1cc4714",
+			"label": "a0005 0015 0100 0150 0200 A100 A170 C100 C170 D100 D101 D105 D200 D201 D205"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\p"
+			},
+			"key": "ceb8141b2b1d05fb9539bc1381b58745",
+			"label": "\\p"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "n",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "n"
+			},
+			"key": "7b8b965ad4bca0e41ab51de7b31363a1",
+			"label": "n"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "\\i"
+			},
+			"key": "1bd7ee1ce72751da4e64129f6d32db41",
+			"label": "\\i"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "1"
+		},
+		"command": "text_pastry_step",
+		"text": "\\i"
+	}
+}
